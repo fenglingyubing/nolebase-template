@@ -58,4 +58,3 @@ char和varchar：{
 # 删除表
 
 ![](../../img/Pasted%20image%2020251220153135.png)
-![](../../img/Pasted%20image%2020251220153642.png)
